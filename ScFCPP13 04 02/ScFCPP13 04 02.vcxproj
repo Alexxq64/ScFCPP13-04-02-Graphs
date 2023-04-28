@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="depthFirstSearch.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="ScFCPP13 04 02.cpp" />
     <ClCompile Include="Task.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="depthFirstSearch.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="Task.h" />
   </ItemGroup>
